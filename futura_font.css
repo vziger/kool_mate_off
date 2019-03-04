@@ -1,4 +1,16 @@
 @font-face {
+  font-family: 'FuturaPT-Demi';
+  src: url('Futura PT Demi/FuturaPT-Demi.eot');
+  src: url('Futura PT Demi/FuturaPT-Demi.eot?#iefix') format('embedded-opentype'),
+       url('Futura PT Demi/FuturaPT-Demi.svg#FuturaPT-Demi') format('svg'),
+       url('Futura PT Demi/FuturaPT-Demi.ttf') format('truetype'),
+       url('Futura PT Demi/FuturaPT-Demi.woff') format('woff'),
+       url('Futura PT Demi/FuturaPT-Demi.woff2') format('woff2');;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
 	font-family: "Futura PT";
 	src: url("Futura PT Demi/FuturaPT-DemiObl.eot");
 	src: url("Futura PT Demi/FuturaPT-DemiObl.eot?#iefix") format("embedded-opentype"),
