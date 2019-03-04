@@ -1,0 +1,22 @@
+@font-face {
+	font-family: "Futura PT";
+	src: url("Futura PT Demi/FuturaPT-DemiObl.eot");
+	src: url("Futura PT Demi/FuturaPT-DemiObl.eot?#iefix") format("embedded-opentype"),
+       url("Futura PT Demi/FuturaPT-DemiObl.svg#FuturaPT-DemiObl") format("svg"),
+			 url("Futura PT Demi/FuturaPT-DemiObl.woff") format("woff"),
+			 url("Futura PT Demi/FuturaPT-DemiObl.ttf") format("truetype"),
+       url("Futura PT Demi/FuturaPT-DemiObl.woff2") format("woff2");
+	font-style: normal;
+	font-weight: demi;
+}
+
+@font-face {
+	font-family: "Futura PT";
+	src: url("Futura PT Heavy/FuturaPT-HeavyObl.eot");
+	src: url("Futura PT Heavy/FuturaPT-HeavyObl.eot?#iefix") format("embedded-opentype"),
+       url("Futura PT Heavy/FuturaPT-HeavyObl.svg#FuturaPT-HeavyObl") format("svg"),
+			 url("Futura PT Heavy/FuturaPT-HeavyObl.woff") format("woff"),
+			 url("Futura PT Heavy/FuturaPT-HeavyObl.ttf") format("truetype");
+	font-style: normal;
+	font-weight: heavy;
+}
