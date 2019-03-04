@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'FuturaPT-DemiObl';
+  src: url('FuturaPT-DemiObl.eot');
+  src: url('FuturaPT-DemiObl.eot?#iefix') format('embedded-opentype'),
+       url('FuturaPT-DemiObl.svg#FuturaPT-DemiObl') format('svg'),
+       url('FuturaPT-DemiObl.ttf') format('truetype'),
+       url('FuturaPT-DemiObl.woff') format('woff'),
+       url('FuturaPT-DemiObl.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
